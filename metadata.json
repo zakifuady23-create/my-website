@@ -1,0 +1,6 @@
+{
+  "name": "Prime Property",
+  "description": "Exclusive High-Class, Luxury Monumental Website Profile with interactive 3D elements and immersive scrolling experience for elite habitations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
